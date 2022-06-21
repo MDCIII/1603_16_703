@@ -1,0 +1,419 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<urn:mdciii:1603:16()>
+    a skos:ConceptScheme ;
+    rdfs:label "(1603:16)" .
+
+<urn:mdciii:1603:16:703()>
+    a skos:Collection ;
+    rdfs:label "(1603:16:703)" ;
+    skos:inScheme <urn:mdciii:1603:16()> ;
+    skos:member <urn:mdciii:1603:16:703:2()> .
+
+<urn:mdciii:1603:16:703:2()>
+    a skos:Collection ;
+    rdfs:label "(1603:16:703:2)" ;
+    skos:member <urn:mdciii:1603:16:703:2:10002>, <urn:mdciii:1603:16:703:2:10003>, <urn:mdciii:1603:16:703:2:10004>, <urn:mdciii:1603:16:703:2:10005>, <urn:mdciii:1603:16:703:2:10006>, <urn:mdciii:1603:16:703:2:10007>, <urn:mdciii:1603:16:703:2:10008>, <urn:mdciii:1603:16:703:2:21001>, <urn:mdciii:1603:16:703:2:21002>, <urn:mdciii:1603:16:703:2:21003>, <urn:mdciii:1603:16:703:2:21004>, <urn:mdciii:1603:16:703:2:21005>, <urn:mdciii:1603:16:703:2:21006>, <urn:mdciii:1603:16:703:2:21007>, <urn:mdciii:1603:16:703:2:22001>, <urn:mdciii:1603:16:703:2:22002>, <urn:mdciii:1603:16:703:2:22003>, <urn:mdciii:1603:16:703:2:22004>, <urn:mdciii:1603:16:703:2:22005>, <urn:mdciii:1603:16:703:2:22006>, <urn:mdciii:1603:16:703:2:22007>, <urn:mdciii:1603:16:703:2:22008>, <urn:mdciii:1603:16:703:2:22009>, <urn:mdciii:1603:16:703:2:23001>, <urn:mdciii:1603:16:703:2:23002>, <urn:mdciii:1603:16:703:2:23003>, <urn:mdciii:1603:16:703:2:23004>, <urn:mdciii:1603:16:703:2:23005>, <urn:mdciii:1603:16:703:2:23006>, <urn:mdciii:1603:16:703:2:23007>, <urn:mdciii:1603:16:703:2:31001>, <urn:mdciii:1603:16:703:2:31002>, <urn:mdciii:1603:16:703:2:31003>, <urn:mdciii:1603:16:703:2:31004>, <urn:mdciii:1603:16:703:2:31005>, <urn:mdciii:1603:16:703:2:31006>, <urn:mdciii:1603:16:703:2:31007>, <urn:mdciii:1603:16:703:2:31008>, <urn:mdciii:1603:16:703:2:31009>, <urn:mdciii:1603:16:703:2:31010>, <urn:mdciii:1603:16:703:2:31011>, <urn:mdciii:1603:16:703:2:32001>, <urn:mdciii:1603:16:703:2:32002>, <urn:mdciii:1603:16:703:2:32003>, <urn:mdciii:1603:16:703:2:32004>, <urn:mdciii:1603:16:703:2:32005>, <urn:mdciii:1603:16:703:2:32006>, <urn:mdciii:1603:16:703:2:32007>, <urn:mdciii:1603:16:703:2:32008>, <urn:mdciii:1603:16:703:2:32009>, <urn:mdciii:1603:16:703:2:32010>, <urn:mdciii:1603:16:703:2:32011>, <urn:mdciii:1603:16:703:2:32012>, <urn:mdciii:1603:16:703:2:32013>, <urn:mdciii:1603:16:703:2:41001>, <urn:mdciii:1603:16:703:2:41002>, <urn:mdciii:1603:16:703:2:41003>, <urn:mdciii:1603:16:703:2:41004>, <urn:mdciii:1603:16:703:2:41005>, <urn:mdciii:1603:16:703:2:41006>, <urn:mdciii:1603:16:703:2:41007>, <urn:mdciii:1603:16:703:2:41008>, <urn:mdciii:1603:16:703:2:41009>, <urn:mdciii:1603:16:703:2:41010>, <urn:mdciii:1603:16:703:2:41011>, <urn:mdciii:1603:16:703:2:41012>, <urn:mdciii:1603:16:703:2:41013>, <urn:mdciii:1603:16:703:2:42001>, <urn:mdciii:1603:16:703:2:42002>, <urn:mdciii:1603:16:703:2:42003>, <urn:mdciii:1603:16:703:2:42004>, <urn:mdciii:1603:16:703:2:42005>, <urn:mdciii:1603:16:703:2:42006>, <urn:mdciii:1603:16:703:2:42007>, <urn:mdciii:1603:16:703:2:42008>, <urn:mdciii:1603:16:703:2:42009>, <urn:mdciii:1603:16:703:2:42010>, <urn:mdciii:1603:16:703:2:42011> .
+
+<urn:mdciii:1603:16:703:2(1)>
+    a owl:Ontology .
+
+<urn:mdciii:1603:16:703:2:10001>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:10001" ;
+    skos:prefLabel "Bratislava I"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:10002>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:10002" ;
+    skos:prefLabel "Bratislava II"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:10003>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:10003" ;
+    skos:prefLabel "Bratislava III"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:10004>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:10004" ;
+    skos:prefLabel "Bratislava IV"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:10005>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:10005" ;
+    skos:prefLabel "Bratislava V"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:10006>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:10006" ;
+    skos:prefLabel "Malacky"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:10007>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:10007" ;
+    skos:prefLabel "Pezinok"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:10008>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:10008" ;
+    skos:prefLabel "Senec"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:21001>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:21001" ;
+    skos:prefLabel "Dunajská Streda"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:21002>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:21002" ;
+    skos:prefLabel "Galanta"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:21003>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:21003" ;
+    skos:prefLabel "Hlohovec"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:21004>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:21004" ;
+    skos:prefLabel "Piešťany"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:21005>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:21005" ;
+    skos:prefLabel "Senica"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:21006>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:21006" ;
+    skos:prefLabel "Skalica"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:21007>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:21007" ;
+    skos:prefLabel "Trnava"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:22001>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:22001" ;
+    skos:prefLabel "Bánovce nad Bebravou"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:22002>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:22002" ;
+    skos:prefLabel "Ilava"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:22003>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:22003" ;
+    skos:prefLabel "Myjava"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:22004>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:22004" ;
+    skos:prefLabel "Nové Mesto nad Váhom"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:22005>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:22005" ;
+    skos:prefLabel "Partizánske"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:22006>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:22006" ;
+    skos:prefLabel "Považská Bystrica"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:22007>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:22007" ;
+    skos:prefLabel "Prievidza"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:22008>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:22008" ;
+    skos:prefLabel "Púchov"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:22009>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:22009" ;
+    skos:prefLabel "Trenčín"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:23001>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:23001" ;
+    skos:prefLabel "Komárno"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:23002>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:23002" ;
+    skos:prefLabel "Levice"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:23003>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:23003" ;
+    skos:prefLabel "Nitra"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:23004>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:23004" ;
+    skos:prefLabel "Nové Zámky"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:23005>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:23005" ;
+    skos:prefLabel "Šaľa"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:23006>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:23006" ;
+    skos:prefLabel "Topoľčany"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:23007>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:23007" ;
+    skos:prefLabel "Zlaté Moravce"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:31001>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:31001" ;
+    skos:prefLabel "Bytča"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:31002>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:31002" ;
+    skos:prefLabel "Čadca"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:31003>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:31003" ;
+    skos:prefLabel "Dolný Kubín"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:31004>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:31004" ;
+    skos:prefLabel "Kysucké Nové Mesto"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:31005>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:31005" ;
+    skos:prefLabel "Liptovský Mikuláš"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:31006>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:31006" ;
+    skos:prefLabel "Martin"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:31007>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:31007" ;
+    skos:prefLabel "Námestovo"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:31008>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:31008" ;
+    skos:prefLabel "Ružomberok"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:31009>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:31009" ;
+    skos:prefLabel "Turčianske Teplice"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:31010>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:31010" ;
+    skos:prefLabel "Tvrdošín"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:31011>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:31011" ;
+    skos:prefLabel "Žilina"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:32001>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:32001" ;
+    skos:prefLabel "Banská Bystrica"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:32002>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:32002" ;
+    skos:prefLabel "Banská Štiavnica"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:32003>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:32003" ;
+    skos:prefLabel "Brezno"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:32004>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:32004" ;
+    skos:prefLabel "Detva"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:32005>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:32005" ;
+    skos:prefLabel "Krupina"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:32006>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:32006" ;
+    skos:prefLabel "Lučenec"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:32007>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:32007" ;
+    skos:prefLabel "Poltár"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:32008>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:32008" ;
+    skos:prefLabel "Revúca"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:32009>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:32009" ;
+    skos:prefLabel "Rimavská Sobota"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:32010>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:32010" ;
+    skos:prefLabel "Veľký Krtíš"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:32011>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:32011" ;
+    skos:prefLabel "Žarnovica"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:32012>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:32012" ;
+    skos:prefLabel "Žiar nad Hronom"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:32013>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:32013" ;
+    skos:prefLabel "Zvolen"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:41001>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:41001" ;
+    skos:prefLabel "Bardejov"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:41002>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:41002" ;
+    skos:prefLabel "Humenné"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:41003>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:41003" ;
+    skos:prefLabel "Kežmarok"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:41004>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:41004" ;
+    skos:prefLabel "Levoča"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:41005>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:41005" ;
+    skos:prefLabel "Medzilaborce"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:41006>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:41006" ;
+    skos:prefLabel "Poprad"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:41007>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:41007" ;
+    skos:prefLabel "Prešov"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:41008>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:41008" ;
+    skos:prefLabel "Sabinov"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:41009>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:41009" ;
+    skos:prefLabel "Snina"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:41010>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:41010" ;
+    skos:prefLabel "Stará Ľubovňa"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:41011>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:41011" ;
+    skos:prefLabel "Stropkov"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:41012>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:41012" ;
+    skos:prefLabel "Svidník"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:41013>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:41013" ;
+    skos:prefLabel "Vranov nad Topľou"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:42001>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:42001" ;
+    skos:prefLabel "Gelnica"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:42002>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:42002" ;
+    skos:prefLabel "Košice - okolie"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:42003>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:42003" ;
+    skos:prefLabel "Košice I"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:42004>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:42004" ;
+    skos:prefLabel "Košice II"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:42005>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:42005" ;
+    skos:prefLabel "Košice III"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:42006>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:42006" ;
+    skos:prefLabel "Košice IV"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:42007>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:42007" ;
+    skos:prefLabel "Michalovce"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:42008>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:42008" ;
+    skos:prefLabel "Rožňava"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:42009>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:42009" ;
+    skos:prefLabel "Sobrance"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:42010>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:42010" ;
+    skos:prefLabel "Spišská Nová Ves"@slk-Latn .
+
+<urn:mdciii:1603:16:703:2:42011>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:703:2:42011" ;
+    skos:prefLabel "Trebišov"@slk-Latn .
+
