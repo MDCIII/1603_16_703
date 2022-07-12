@@ -4,6 +4,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 @prefix p: <http://www.wikidata.org/prop/> .
 
 <urn:mdciii:1603:16()>
@@ -28,47 +29,55 @@
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:703:1:10" ;
-    skos:prefLabel "Bratislavský kraj"@slk-Latn .
+    skos:prefLabel "Bratislavský kraj"@slk-Latn ;
+    wdata:q7200235 "SK010" .
 
 <urn:mdciii:1603:16:703:1:21>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:703:1:21" ;
-    skos:prefLabel "Trnavský kraj"@slk-Latn .
+    skos:prefLabel "Trnavský kraj"@slk-Latn ;
+    wdata:q7200235 "SK021" .
 
 <urn:mdciii:1603:16:703:1:22>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:703:1:22" ;
-    skos:prefLabel "Trenčiansky kraj"@slk-Latn .
+    skos:prefLabel "Trenčiansky kraj"@slk-Latn ;
+    wdata:q7200235 "SK022" .
 
 <urn:mdciii:1603:16:703:1:23>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:703:1:23" ;
-    skos:prefLabel "Nitriansky kraj"@slk-Latn .
+    skos:prefLabel "Nitriansky kraj"@slk-Latn ;
+    wdata:q7200235 "SK023" .
 
 <urn:mdciii:1603:16:703:1:31>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:703:1:31" ;
-    skos:prefLabel "Žilinský kraj"@slk-Latn .
+    skos:prefLabel "Žilinský kraj"@slk-Latn ;
+    wdata:q7200235 "SK031" .
 
 <urn:mdciii:1603:16:703:1:32>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:703:1:32" ;
-    skos:prefLabel "Banskobystrický kraj"@slk-Latn .
+    skos:prefLabel "Banskobystrický kraj"@slk-Latn ;
+    wdata:q7200235 "SK032" .
 
 <urn:mdciii:1603:16:703:1:41>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:703:1:41" ;
-    skos:prefLabel "Prešovský kraj"@slk-Latn .
+    skos:prefLabel "Prešovský kraj"@slk-Latn ;
+    wdata:q7200235 "SK041" .
 
 <urn:mdciii:1603:16:703:1:42>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:703:1:42" ;
-    skos:prefLabel "Košický kraj"@slk-Latn .
+    skos:prefLabel "Košický kraj"@slk-Latn ;
+    wdata:q7200235 "SK042" .
 
