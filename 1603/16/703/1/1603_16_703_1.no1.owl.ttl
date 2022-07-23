@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:703:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     skos:prefLabel "Bratislavský kraj"@slk-Latn ;
-    wdata:q7200235 "SK010" ;
+    wdata:Q7200235 "SK010" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -52,7 +52,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:703:1:21" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     skos:prefLabel "Trnavský kraj"@slk-Latn ;
-    wdata:q7200235 "SK021" ;
+    wdata:Q7200235 "SK021" ;
 .
 
 <urn:mdciii:1603:16:703:1:22>
@@ -63,7 +63,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:703:1:22" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     skos:prefLabel "Trenčiansky kraj"@slk-Latn ;
-    wdata:q7200235 "SK022" ;
+    wdata:Q7200235 "SK022" ;
 .
 
 <urn:mdciii:1603:16:703:1:23>
@@ -74,7 +74,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:703:1:23" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     skos:prefLabel "Nitriansky kraj"@slk-Latn ;
-    wdata:q7200235 "SK023" ;
+    wdata:Q7200235 "SK023" ;
 .
 
 <urn:mdciii:1603:16:703:1:31>
@@ -85,7 +85,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:703:1:31" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     skos:prefLabel "Žilinský kraj"@slk-Latn ;
-    wdata:q7200235 "SK031" ;
+    wdata:Q7200235 "SK031" ;
 .
 
 <urn:mdciii:1603:16:703:1:32>
@@ -96,7 +96,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:703:1:32" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     skos:prefLabel "Banskobystrický kraj"@slk-Latn ;
-    wdata:q7200235 "SK032" ;
+    wdata:Q7200235 "SK032" ;
 .
 
 <urn:mdciii:1603:16:703:1:41>
@@ -107,7 +107,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:703:1:41" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     skos:prefLabel "Prešovský kraj"@slk-Latn ;
-    wdata:q7200235 "SK041" ;
+    wdata:Q7200235 "SK041" ;
 .
 
 <urn:mdciii:1603:16:703:1:42>
@@ -118,6 +118,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:703:1:42" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:0> ;
     skos:prefLabel "Košický kraj"@slk-Latn ;
-    wdata:q7200235 "SK042" ;
+    wdata:Q7200235 "SK042" ;
 .
 

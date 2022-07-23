@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:10> ;
     skos:prefLabel "Bratislava I"@slk-Latn ;
-    wdata:q7200235 "SK010001" ;
+    wdata:Q7200235 "SK010001" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -125,7 +125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:10> ;
     skos:prefLabel "Bratislava II"@slk-Latn ;
-    wdata:q7200235 "SK010002" ;
+    wdata:Q7200235 "SK010002" ;
 .
 
 <urn:mdciii:1603:16:703:2:10003>
@@ -137,7 +137,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:10> ;
     skos:prefLabel "Bratislava III"@slk-Latn ;
-    wdata:q7200235 "SK010003" ;
+    wdata:Q7200235 "SK010003" ;
 .
 
 <urn:mdciii:1603:16:703:2:10004>
@@ -149,7 +149,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:10> ;
     skos:prefLabel "Bratislava IV"@slk-Latn ;
-    wdata:q7200235 "SK010004" ;
+    wdata:Q7200235 "SK010004" ;
 .
 
 <urn:mdciii:1603:16:703:2:10005>
@@ -161,7 +161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:10> ;
     skos:prefLabel "Bratislava V"@slk-Latn ;
-    wdata:q7200235 "SK010005" ;
+    wdata:Q7200235 "SK010005" ;
 .
 
 <urn:mdciii:1603:16:703:2:10006>
@@ -173,7 +173,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:10> ;
     skos:prefLabel "Malacky"@slk-Latn ;
-    wdata:q7200235 "SK010006" ;
+    wdata:Q7200235 "SK010006" ;
 .
 
 <urn:mdciii:1603:16:703:2:10007>
@@ -185,7 +185,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:10> ;
     skos:prefLabel "Pezinok"@slk-Latn ;
-    wdata:q7200235 "SK010007" ;
+    wdata:Q7200235 "SK010007" ;
 .
 
 <urn:mdciii:1603:16:703:2:10008>
@@ -197,7 +197,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:10> ;
     skos:prefLabel "Senec"@slk-Latn ;
-    wdata:q7200235 "SK010008" ;
+    wdata:Q7200235 "SK010008" ;
 .
 
 <urn:mdciii:1603:16:703:2:21001>
@@ -209,7 +209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:21> ;
     skos:prefLabel "Dunajská Streda"@slk-Latn ;
-    wdata:q7200235 "SK021001" ;
+    wdata:Q7200235 "SK021001" ;
 .
 
 <urn:mdciii:1603:16:703:2:21002>
@@ -221,7 +221,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:21> ;
     skos:prefLabel "Galanta"@slk-Latn ;
-    wdata:q7200235 "SK021002" ;
+    wdata:Q7200235 "SK021002" ;
 .
 
 <urn:mdciii:1603:16:703:2:21003>
@@ -233,7 +233,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:21> ;
     skos:prefLabel "Hlohovec"@slk-Latn ;
-    wdata:q7200235 "SK021003" ;
+    wdata:Q7200235 "SK021003" ;
 .
 
 <urn:mdciii:1603:16:703:2:21004>
@@ -245,7 +245,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:21> ;
     skos:prefLabel "Piešťany"@slk-Latn ;
-    wdata:q7200235 "SK021004" ;
+    wdata:Q7200235 "SK021004" ;
 .
 
 <urn:mdciii:1603:16:703:2:21005>
@@ -257,7 +257,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:21> ;
     skos:prefLabel "Senica"@slk-Latn ;
-    wdata:q7200235 "SK021005" ;
+    wdata:Q7200235 "SK021005" ;
 .
 
 <urn:mdciii:1603:16:703:2:21006>
@@ -269,7 +269,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:21> ;
     skos:prefLabel "Skalica"@slk-Latn ;
-    wdata:q7200235 "SK021006" ;
+    wdata:Q7200235 "SK021006" ;
 .
 
 <urn:mdciii:1603:16:703:2:21007>
@@ -281,7 +281,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:21> ;
     skos:prefLabel "Trnava"@slk-Latn ;
-    wdata:q7200235 "SK021007" ;
+    wdata:Q7200235 "SK021007" ;
 .
 
 <urn:mdciii:1603:16:703:2:22001>
@@ -293,7 +293,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:22> ;
     skos:prefLabel "Bánovce nad Bebravou"@slk-Latn ;
-    wdata:q7200235 "SK022001" ;
+    wdata:Q7200235 "SK022001" ;
 .
 
 <urn:mdciii:1603:16:703:2:22002>
@@ -305,7 +305,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:22> ;
     skos:prefLabel "Ilava"@slk-Latn ;
-    wdata:q7200235 "SK022002" ;
+    wdata:Q7200235 "SK022002" ;
 .
 
 <urn:mdciii:1603:16:703:2:22003>
@@ -317,7 +317,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:22> ;
     skos:prefLabel "Myjava"@slk-Latn ;
-    wdata:q7200235 "SK022003" ;
+    wdata:Q7200235 "SK022003" ;
 .
 
 <urn:mdciii:1603:16:703:2:22004>
@@ -329,7 +329,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:22> ;
     skos:prefLabel "Nové Mesto nad Váhom"@slk-Latn ;
-    wdata:q7200235 "SK022004" ;
+    wdata:Q7200235 "SK022004" ;
 .
 
 <urn:mdciii:1603:16:703:2:22005>
@@ -341,7 +341,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:22> ;
     skos:prefLabel "Partizánske"@slk-Latn ;
-    wdata:q7200235 "SK022005" ;
+    wdata:Q7200235 "SK022005" ;
 .
 
 <urn:mdciii:1603:16:703:2:22006>
@@ -353,7 +353,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:22> ;
     skos:prefLabel "Považská Bystrica"@slk-Latn ;
-    wdata:q7200235 "SK022006" ;
+    wdata:Q7200235 "SK022006" ;
 .
 
 <urn:mdciii:1603:16:703:2:22007>
@@ -365,7 +365,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:22> ;
     skos:prefLabel "Prievidza"@slk-Latn ;
-    wdata:q7200235 "SK022007" ;
+    wdata:Q7200235 "SK022007" ;
 .
 
 <urn:mdciii:1603:16:703:2:22008>
@@ -377,7 +377,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:22> ;
     skos:prefLabel "Púchov"@slk-Latn ;
-    wdata:q7200235 "SK022008" ;
+    wdata:Q7200235 "SK022008" ;
 .
 
 <urn:mdciii:1603:16:703:2:22009>
@@ -389,7 +389,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:22> ;
     skos:prefLabel "Trenčín"@slk-Latn ;
-    wdata:q7200235 "SK022009" ;
+    wdata:Q7200235 "SK022009" ;
 .
 
 <urn:mdciii:1603:16:703:2:23001>
@@ -401,7 +401,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:23> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:23> ;
     skos:prefLabel "Komárno"@slk-Latn ;
-    wdata:q7200235 "SK023001" ;
+    wdata:Q7200235 "SK023001" ;
 .
 
 <urn:mdciii:1603:16:703:2:23002>
@@ -413,7 +413,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:23> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:23> ;
     skos:prefLabel "Levice"@slk-Latn ;
-    wdata:q7200235 "SK023002" ;
+    wdata:Q7200235 "SK023002" ;
 .
 
 <urn:mdciii:1603:16:703:2:23003>
@@ -425,7 +425,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:23> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:23> ;
     skos:prefLabel "Nitra"@slk-Latn ;
-    wdata:q7200235 "SK023003" ;
+    wdata:Q7200235 "SK023003" ;
 .
 
 <urn:mdciii:1603:16:703:2:23004>
@@ -437,7 +437,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:23> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:23> ;
     skos:prefLabel "Nové Zámky"@slk-Latn ;
-    wdata:q7200235 "SK023004" ;
+    wdata:Q7200235 "SK023004" ;
 .
 
 <urn:mdciii:1603:16:703:2:23005>
@@ -449,7 +449,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:23> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:23> ;
     skos:prefLabel "Šaľa"@slk-Latn ;
-    wdata:q7200235 "SK023005" ;
+    wdata:Q7200235 "SK023005" ;
 .
 
 <urn:mdciii:1603:16:703:2:23006>
@@ -461,7 +461,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:23> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:23> ;
     skos:prefLabel "Topoľčany"@slk-Latn ;
-    wdata:q7200235 "SK023006" ;
+    wdata:Q7200235 "SK023006" ;
 .
 
 <urn:mdciii:1603:16:703:2:23007>
@@ -473,7 +473,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:23> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:23> ;
     skos:prefLabel "Zlaté Moravce"@slk-Latn ;
-    wdata:q7200235 "SK023007" ;
+    wdata:Q7200235 "SK023007" ;
 .
 
 <urn:mdciii:1603:16:703:2:31001>
@@ -485,7 +485,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:31> ;
     skos:prefLabel "Bytča"@slk-Latn ;
-    wdata:q7200235 "SK031001" ;
+    wdata:Q7200235 "SK031001" ;
 .
 
 <urn:mdciii:1603:16:703:2:31002>
@@ -497,7 +497,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:31> ;
     skos:prefLabel "Čadca"@slk-Latn ;
-    wdata:q7200235 "SK031002" ;
+    wdata:Q7200235 "SK031002" ;
 .
 
 <urn:mdciii:1603:16:703:2:31003>
@@ -509,7 +509,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:31> ;
     skos:prefLabel "Dolný Kubín"@slk-Latn ;
-    wdata:q7200235 "SK031003" ;
+    wdata:Q7200235 "SK031003" ;
 .
 
 <urn:mdciii:1603:16:703:2:31004>
@@ -521,7 +521,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:31> ;
     skos:prefLabel "Kysucké Nové Mesto"@slk-Latn ;
-    wdata:q7200235 "SK031004" ;
+    wdata:Q7200235 "SK031004" ;
 .
 
 <urn:mdciii:1603:16:703:2:31005>
@@ -533,7 +533,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:31> ;
     skos:prefLabel "Liptovský Mikuláš"@slk-Latn ;
-    wdata:q7200235 "SK031005" ;
+    wdata:Q7200235 "SK031005" ;
 .
 
 <urn:mdciii:1603:16:703:2:31006>
@@ -545,7 +545,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:31> ;
     skos:prefLabel "Martin"@slk-Latn ;
-    wdata:q7200235 "SK031006" ;
+    wdata:Q7200235 "SK031006" ;
 .
 
 <urn:mdciii:1603:16:703:2:31007>
@@ -557,7 +557,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:31> ;
     skos:prefLabel "Námestovo"@slk-Latn ;
-    wdata:q7200235 "SK031007" ;
+    wdata:Q7200235 "SK031007" ;
 .
 
 <urn:mdciii:1603:16:703:2:31008>
@@ -569,7 +569,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:31> ;
     skos:prefLabel "Ružomberok"@slk-Latn ;
-    wdata:q7200235 "SK031008" ;
+    wdata:Q7200235 "SK031008" ;
 .
 
 <urn:mdciii:1603:16:703:2:31009>
@@ -581,7 +581,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:31> ;
     skos:prefLabel "Turčianske Teplice"@slk-Latn ;
-    wdata:q7200235 "SK031009" ;
+    wdata:Q7200235 "SK031009" ;
 .
 
 <urn:mdciii:1603:16:703:2:31010>
@@ -593,7 +593,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:31> ;
     skos:prefLabel "Tvrdošín"@slk-Latn ;
-    wdata:q7200235 "SK031010" ;
+    wdata:Q7200235 "SK031010" ;
 .
 
 <urn:mdciii:1603:16:703:2:31011>
@@ -605,7 +605,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:31> ;
     skos:prefLabel "Žilina"@slk-Latn ;
-    wdata:q7200235 "SK031011" ;
+    wdata:Q7200235 "SK031011" ;
 .
 
 <urn:mdciii:1603:16:703:2:32001>
@@ -617,7 +617,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:32> ;
     skos:prefLabel "Banská Bystrica"@slk-Latn ;
-    wdata:q7200235 "SK032001" ;
+    wdata:Q7200235 "SK032001" ;
 .
 
 <urn:mdciii:1603:16:703:2:32002>
@@ -629,7 +629,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:32> ;
     skos:prefLabel "Banská Štiavnica"@slk-Latn ;
-    wdata:q7200235 "SK032002" ;
+    wdata:Q7200235 "SK032002" ;
 .
 
 <urn:mdciii:1603:16:703:2:32003>
@@ -641,7 +641,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:32> ;
     skos:prefLabel "Brezno"@slk-Latn ;
-    wdata:q7200235 "SK032003" ;
+    wdata:Q7200235 "SK032003" ;
 .
 
 <urn:mdciii:1603:16:703:2:32004>
@@ -653,7 +653,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:32> ;
     skos:prefLabel "Detva"@slk-Latn ;
-    wdata:q7200235 "SK032004" ;
+    wdata:Q7200235 "SK032004" ;
 .
 
 <urn:mdciii:1603:16:703:2:32005>
@@ -665,7 +665,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:32> ;
     skos:prefLabel "Krupina"@slk-Latn ;
-    wdata:q7200235 "SK032005" ;
+    wdata:Q7200235 "SK032005" ;
 .
 
 <urn:mdciii:1603:16:703:2:32006>
@@ -677,7 +677,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:32> ;
     skos:prefLabel "Lučenec"@slk-Latn ;
-    wdata:q7200235 "SK032006" ;
+    wdata:Q7200235 "SK032006" ;
 .
 
 <urn:mdciii:1603:16:703:2:32007>
@@ -689,7 +689,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:32> ;
     skos:prefLabel "Poltár"@slk-Latn ;
-    wdata:q7200235 "SK032007" ;
+    wdata:Q7200235 "SK032007" ;
 .
 
 <urn:mdciii:1603:16:703:2:32008>
@@ -701,7 +701,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:32> ;
     skos:prefLabel "Revúca"@slk-Latn ;
-    wdata:q7200235 "SK032008" ;
+    wdata:Q7200235 "SK032008" ;
 .
 
 <urn:mdciii:1603:16:703:2:32009>
@@ -713,7 +713,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:32> ;
     skos:prefLabel "Rimavská Sobota"@slk-Latn ;
-    wdata:q7200235 "SK032009" ;
+    wdata:Q7200235 "SK032009" ;
 .
 
 <urn:mdciii:1603:16:703:2:32010>
@@ -725,7 +725,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:32> ;
     skos:prefLabel "Veľký Krtíš"@slk-Latn ;
-    wdata:q7200235 "SK032010" ;
+    wdata:Q7200235 "SK032010" ;
 .
 
 <urn:mdciii:1603:16:703:2:32011>
@@ -737,7 +737,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:32> ;
     skos:prefLabel "Žarnovica"@slk-Latn ;
-    wdata:q7200235 "SK032011" ;
+    wdata:Q7200235 "SK032011" ;
 .
 
 <urn:mdciii:1603:16:703:2:32012>
@@ -749,7 +749,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:32> ;
     skos:prefLabel "Žiar nad Hronom"@slk-Latn ;
-    wdata:q7200235 "SK032012" ;
+    wdata:Q7200235 "SK032012" ;
 .
 
 <urn:mdciii:1603:16:703:2:32013>
@@ -761,7 +761,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:32> ;
     skos:prefLabel "Zvolen"@slk-Latn ;
-    wdata:q7200235 "SK032013" ;
+    wdata:Q7200235 "SK032013" ;
 .
 
 <urn:mdciii:1603:16:703:2:41001>
@@ -773,7 +773,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:41> ;
     skos:prefLabel "Bardejov"@slk-Latn ;
-    wdata:q7200235 "SK041001" ;
+    wdata:Q7200235 "SK041001" ;
 .
 
 <urn:mdciii:1603:16:703:2:41002>
@@ -785,7 +785,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:41> ;
     skos:prefLabel "Humenné"@slk-Latn ;
-    wdata:q7200235 "SK041002" ;
+    wdata:Q7200235 "SK041002" ;
 .
 
 <urn:mdciii:1603:16:703:2:41003>
@@ -797,7 +797,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:41> ;
     skos:prefLabel "Kežmarok"@slk-Latn ;
-    wdata:q7200235 "SK041003" ;
+    wdata:Q7200235 "SK041003" ;
 .
 
 <urn:mdciii:1603:16:703:2:41004>
@@ -809,7 +809,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:41> ;
     skos:prefLabel "Levoča"@slk-Latn ;
-    wdata:q7200235 "SK041004" ;
+    wdata:Q7200235 "SK041004" ;
 .
 
 <urn:mdciii:1603:16:703:2:41005>
@@ -821,7 +821,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:41> ;
     skos:prefLabel "Medzilaborce"@slk-Latn ;
-    wdata:q7200235 "SK041005" ;
+    wdata:Q7200235 "SK041005" ;
 .
 
 <urn:mdciii:1603:16:703:2:41006>
@@ -833,7 +833,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:41> ;
     skos:prefLabel "Poprad"@slk-Latn ;
-    wdata:q7200235 "SK041006" ;
+    wdata:Q7200235 "SK041006" ;
 .
 
 <urn:mdciii:1603:16:703:2:41007>
@@ -845,7 +845,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:41> ;
     skos:prefLabel "Prešov"@slk-Latn ;
-    wdata:q7200235 "SK041007" ;
+    wdata:Q7200235 "SK041007" ;
 .
 
 <urn:mdciii:1603:16:703:2:41008>
@@ -857,7 +857,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:41> ;
     skos:prefLabel "Sabinov"@slk-Latn ;
-    wdata:q7200235 "SK041008" ;
+    wdata:Q7200235 "SK041008" ;
 .
 
 <urn:mdciii:1603:16:703:2:41009>
@@ -869,7 +869,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:41> ;
     skos:prefLabel "Snina"@slk-Latn ;
-    wdata:q7200235 "SK041009" ;
+    wdata:Q7200235 "SK041009" ;
 .
 
 <urn:mdciii:1603:16:703:2:41010>
@@ -881,7 +881,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:41> ;
     skos:prefLabel "Stará Ľubovňa"@slk-Latn ;
-    wdata:q7200235 "SK041010" ;
+    wdata:Q7200235 "SK041010" ;
 .
 
 <urn:mdciii:1603:16:703:2:41011>
@@ -893,7 +893,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:41> ;
     skos:prefLabel "Stropkov"@slk-Latn ;
-    wdata:q7200235 "SK041011" ;
+    wdata:Q7200235 "SK041011" ;
 .
 
 <urn:mdciii:1603:16:703:2:41012>
@@ -905,7 +905,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:41> ;
     skos:prefLabel "Svidník"@slk-Latn ;
-    wdata:q7200235 "SK041012" ;
+    wdata:Q7200235 "SK041012" ;
 .
 
 <urn:mdciii:1603:16:703:2:41013>
@@ -917,7 +917,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:41> ;
     skos:prefLabel "Vranov nad Topľou"@slk-Latn ;
-    wdata:q7200235 "SK041013" ;
+    wdata:Q7200235 "SK041013" ;
 .
 
 <urn:mdciii:1603:16:703:2:42001>
@@ -929,7 +929,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:42> ;
     skos:prefLabel "Gelnica"@slk-Latn ;
-    wdata:q7200235 "SK042001" ;
+    wdata:Q7200235 "SK042001" ;
 .
 
 <urn:mdciii:1603:16:703:2:42002>
@@ -941,7 +941,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:42> ;
     skos:prefLabel "Košice - okolie"@slk-Latn ;
-    wdata:q7200235 "SK042002" ;
+    wdata:Q7200235 "SK042002" ;
 .
 
 <urn:mdciii:1603:16:703:2:42003>
@@ -953,7 +953,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:42> ;
     skos:prefLabel "Košice I"@slk-Latn ;
-    wdata:q7200235 "SK042003" ;
+    wdata:Q7200235 "SK042003" ;
 .
 
 <urn:mdciii:1603:16:703:2:42004>
@@ -965,7 +965,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:42> ;
     skos:prefLabel "Košice II"@slk-Latn ;
-    wdata:q7200235 "SK042004" ;
+    wdata:Q7200235 "SK042004" ;
 .
 
 <urn:mdciii:1603:16:703:2:42005>
@@ -977,7 +977,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:42> ;
     skos:prefLabel "Košice III"@slk-Latn ;
-    wdata:q7200235 "SK042005" ;
+    wdata:Q7200235 "SK042005" ;
 .
 
 <urn:mdciii:1603:16:703:2:42006>
@@ -989,7 +989,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:42> ;
     skos:prefLabel "Košice IV"@slk-Latn ;
-    wdata:q7200235 "SK042006" ;
+    wdata:Q7200235 "SK042006" ;
 .
 
 <urn:mdciii:1603:16:703:2:42007>
@@ -1001,7 +1001,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:42> ;
     skos:prefLabel "Michalovce"@slk-Latn ;
-    wdata:q7200235 "SK042007" ;
+    wdata:Q7200235 "SK042007" ;
 .
 
 <urn:mdciii:1603:16:703:2:42008>
@@ -1013,7 +1013,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:42> ;
     skos:prefLabel "Rožňava"@slk-Latn ;
-    wdata:q7200235 "SK042008" ;
+    wdata:Q7200235 "SK042008" ;
 .
 
 <urn:mdciii:1603:16:703:2:42009>
@@ -1025,7 +1025,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:42> ;
     skos:prefLabel "Sobrance"@slk-Latn ;
-    wdata:q7200235 "SK042009" ;
+    wdata:Q7200235 "SK042009" ;
 .
 
 <urn:mdciii:1603:16:703:2:42010>
@@ -1037,7 +1037,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:42> ;
     skos:prefLabel "Spišská Nová Ves"@slk-Latn ;
-    wdata:q7200235 "SK042010" ;
+    wdata:Q7200235 "SK042010" ;
 .
 
 <urn:mdciii:1603:16:703:2:42011>
@@ -1049,6 +1049,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:703:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:703:1:42> ;
     skos:prefLabel "Trebišov"@slk-Latn ;
-    wdata:q7200235 "SK042011" ;
+    wdata:Q7200235 "SK042011" ;
 .
 
